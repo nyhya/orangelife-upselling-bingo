@@ -1,4 +1,4 @@
-# orangelife-upselling-bingo 퍼즐 빙고 게임
+# 퍼즐 빙고 게임
 
 
 반응형 퍼블리싱과 vue.js 프론트엔드 개발 담당</br>
